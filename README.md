@@ -2,8 +2,6 @@
 <h3 align="center">A passionate game developer from Brasil</h3>
 
 
-<p align="left"> <a href="https://twitter.com/_diog" target="blank"><img src="https://img.shields.io/twitter/follow/_diog?logo=twitter&style=for-the-badge" alt="_diog" /></a> </p>
-
 - 🔭 I’m currently working on [Ludus Lab.](https://www.instagram.com/ludus.lab/)
 
 - 🌱 I’m currently learning **Python Django**
