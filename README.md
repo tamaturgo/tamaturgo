@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Ludus Lab.](https://www.instagram.com/ludus.lab/)
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Python Django** and **ASP.NET API**
 
 - 📫 How to reach me **ddst.snf20@uea.edu.br**
 
