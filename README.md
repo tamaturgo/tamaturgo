@@ -1,27 +1,47 @@
-<h1 align="center">Hi 👋, I'm Diogeles</h1>
-<h3 align="center">A passionate game developer from Brasil</h3>
+<h1 align="center">Hi, I'm Diogeles 👋</h1>
+<h3 align="center">Full-Stack Developer in Aerospace and Defense at Xmobots</h3>
 
+<p align="center">
+  <i>I am Diogeles, and I'm currently a student of Information Systems at the University. My technical experiences range from developing electronic games using Unity and C# to creating WEB applications with REST APIs, React, and PHP. I possess skills in Data Analysis with Python, expertise in integration and agile methodologies using Docker, Git, and Scrum, and proficiency in Cloud Computing on AWS. Additionally, I have hands-on experience in Computer Vision and Machine Learning techniques, with a primary focus on Neural Networks. As a team player, I actively contribute clear technical insights to product development, find solutions, and expedite report delivery. I am also dedicated to enhancing the code quality through proactive participation in code reviews, promoting better programming practices.</i>
+</p>
 
-- 🔭 I’m currently working on [Ludus Lab.](https://www.instagram.com/ludus.lab/)
+- 🌱 I’m currently expanding my skills in **Python Computer Vision** and **Spring Boot API**.
 
-- 🌱 I’m currently learning **Python Django** and **ASP.NET API**
-
-- 📫 How to reach me **ddst.snf20@uea.edu.br**
+- 📫 Reach me at: **ddst.snf20@uea.edu.br**
 
 <h3 align="center">Connect with me:</h3>
 
-| <a href="https://twitter.com/_diog" target="blank"><img src="https://img.shields.io/twitter/follow/_diog?logo=twitter&style=for-the-badge" alt="_diog" /></a> | <a href="https://linkedin.com/in/diógeles-tamaturgo-579ba2197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diógeles-tamaturgo-579ba2197" height="30" width="40" /></a> | <a href="https://fb.com/dio.tamaturgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dio.tamaturgo" height="30" width="40" /></a> | <a href="https://instagram.com/tm_diog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tm_diog" height="30" width="40" /></a> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<p align="center">
+  <a href="https://linkedin.com/in/diógeles-tamaturgo-579ba2197" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diógeles-tamaturgo-579ba2197" height="30" width="40" /></a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaturgo&show_icons=true&theme=dark&hide=issues&count_private=true)
---------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaturgo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/></a>
+  <!-- Add more tools and languages here -->
+</p>
 
-## Academic skills 
+## Academic Skills
 - Computer technical course (2019).
-- I'm about to graduate in Information's Systems.
+- About to graduate in Information Systems.
 
+# Experiences
 
+**Xmobots** - Fullstack Developer (1 Year)
+- Worked with Spring Boot and React.
+
+**Instituto de Pesquisas Eldorado** - Machine Learning Intern (6 months)
+- Developed applications using deep learning, artificial intelligence, natural language processing, and Python.
+- Collaborated in data collection, preparation, and product prototyping.
+
+**Ludus Lab** - Fullstack Developer (2 Years)
+- Utilized technologies such as React, Express, Bootstrap, and Python.
+
+## Check Out My Projects
+
+  <!-- Add your projects here -->
+  - [Project: Intelligent Transportation System (ITS):](https://github.com/tamaturgo/intelligent_transportation_system_ModelML)
+The Intelligent Transportation System (ITS) utilizes computer vision, including YOLO (You Only Look Once), to optimize traffic flow and enhance road safety. This project showcases the power of computer vision in creating efficient and safer transportation networks.
+  - [Sangue-Bom: ](https://github.com/tamaturgo/sanguebom-mobile) is a React Native mobile app that gamifies blood donation, connecting donors with blood banks, sending emergency alerts, and creating an engaging community of regular donors. The app's mission is to make blood donation more accessible, rewarding, and impactful, ultimately encouraging more people to save lives through regular blood donation.
