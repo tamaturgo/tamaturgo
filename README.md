@@ -36,10 +36,10 @@
 
 # Experiences
 
-**Xmobots** - Fullstack Developer (1 Year)
+**Xmobots** - Fullstack Developer (1 Month)
 - Worked with Spring Boot and React.
 
-**Instituto de Pesquisas Eldorado** - Machine Learning Intern (6 months)
+**Instituto de Pesquisas Eldorado** - Machine Learning Intern (6 Months)
 - Developed applications using deep learning, artificial intelligence, natural language processing, and Python.
 - Collaborated in data collection, preparation, and product prototyping.
 
