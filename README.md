@@ -20,6 +20,13 @@
 <p align="center">
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://developers.arcgis.com/javascript/" target="_blank" rel="noreferrer"><img src="https://dh.library.virginia.edu/system/files/styles/large/private/ArcGIS_logo.png?itok=iypmgErn" alt="ArcGIS" width="40" height="40"/></a>
+  <a href="https://asaas.com/" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/580/logo-asaas-azul-.png" alt="Asaas" width="40" height="40"/></a>
   <!-- Add more tools and languages here -->
 </p>
 
