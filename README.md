@@ -5,9 +5,9 @@
   <i>I am Diogeles, and I'm currently a student of Information Systems at the University. My technical experiences range from developing electronic games using Unity and C# to creating WEB applications with REST APIs, React, and PHP. I possess skills in Data Analysis with Python, expertise in integration and agile methodologies using Docker, Git, and Scrum, and proficiency in Cloud Computing on AWS. Additionally, I have hands-on experience in Computer Vision and Machine Learning techniques, with a primary focus on Neural Networks. As a team player, I actively contribute clear technical insights to product development, find solutions, and expedite report delivery. I am also dedicated to enhancing the code quality through proactive participation in code reviews, promoting better programming practices.</i>
 </p>
 
-- 🌱 I’m currently expanding my skills in **Python Computer Vision** and **Spring Boot API**.
+- 🌱 I’m currently expanding my skills in **Computer Vision** and **Spring Boot API**.
 
-- 📫 Reach me at: **ddst.snf20@uea.edu.br**
+- 📫 Reach me at: **diogeles02@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 
@@ -26,17 +26,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://developers.arcgis.com/javascript/" target="_blank" rel="noreferrer"><img src="https://dh.library.virginia.edu/system/files/styles/large/private/ArcGIS_logo.png?itok=iypmgErn" alt="ArcGIS" width="40" height="40"/></a>
-  <a href="https://asaas.com/" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/580/logo-asaas-azul-.png" alt="Asaas" width="40" height="40"/></a>
   <!-- Add more tools and languages here -->
 </p>
 
 ## Academic Skills
 - Computer technical course (2019).
-- About to graduate in Information Systems.
+- Bachelor in Information Systems 2024
 
 # Experiences
 
-**Xmobots** - Fullstack Developer (1 Month)
+**Xmobots** - Fullstack Developer (1 Year - Current)
 - Worked with Spring Boot and React.
 
 **Instituto de Pesquisas Eldorado** - Machine Learning Intern (6 Months)
